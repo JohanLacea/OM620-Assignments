@@ -19,7 +19,7 @@ The `data` folder contains two supporting datasets. The metadata provides refere
 
 The `notebooks` folder contains the combined Assignments 1 and 2 notebook, including the data preparation steps and safety-stock calculations.
 
-[View the combined notebook](<Milestone 3/notebooks/OM620_Assignments_1_and_2.ipynb>)
+[View the combined notebook](<Milestone 3/notebooks/om620_assignments_1_and_2.ipynb>)
 
 ## Professional Portfolio
 
