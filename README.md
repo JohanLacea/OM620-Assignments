@@ -5,8 +5,8 @@
 The `Milestone 3` folder contains the project data and combined notebook. This README provides and overview of the repository.
 
 ```text
-milestone-3/data/
-milestone-3/notebooks/
+Milestone 3/data/
+Milestone 3/notebooks/
 README.md
 ```
 ## Data
